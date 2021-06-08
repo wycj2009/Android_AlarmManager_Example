@@ -1,0 +1,2 @@
+rootProject.name = "Android_AlarmManager_Example"
+include ':app'
